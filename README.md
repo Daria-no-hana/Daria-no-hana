@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Daria-no-hana
-- 👀 I live in Tokyo and my current job has nothing to do with coding... But who knows, what happens next.
-- 🐉 I am a newbie an DnD.
-- 🌱 I am currently trying my best (or not) at CS50x. 
+- 👀 I live in Moscow and rn I am in-between jobs. My previous one had nothing to do with coding... I want my next one to be different.
+- 🐉 Passionate DnD-player.
 - 📫 Feel free message me in Discord (@daria 1803#2637).
 
 <!---
