@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daria-no-hana
-- 👀 I live in Moscow and rn I am in-between jobs. My previous one had nothing to do with coding... I want my next one to be different.
+- 👀 I live in Istanbul and rn I am in-between jobs. My previous one had nothing to do with coding... My next one could be different.
 - 🐉 Passionate DnD-player.
-- 📫 Feel free message me in Discord (@daria 1803#2637).
+- 📫 Feel free to message me in Discord (@daria 1803#2637).
 
 <!---
 Daria-no-hana/Daria-no-hana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
