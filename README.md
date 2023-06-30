@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daria-no-hana
-- 👀 I live in Istanbul and rn I am in-between jobs. My previous one had nothing to do with coding... My next one could be different.
+- 👀 I live in Istanbul and rn I am in-between jobs.  I have experimented with very basic Python in some pet-projects (mainly NLP). Hope to implement coding in my everyday life to make some routine tasks easier.
 - 🗾 Japanese linguistics major.
 - 🐉 Passionate DnD-player.
 
